@@ -1,0 +1,7 @@
+"Rather than reviewing specific technologies, this review situates digital archaeology within broader theoretical debates regarding craft and embodiment; materiality; the uncanny; and ethics, politics, and accessibility." (Morgan, 2022, p. 213)
+
+I find this quote quite interesting as it reframes digital archaeology beyond just a tool or the use of technology. By situating digital work within debates about materiality, Morgan makes me think about how digital objects themselves can be treated as material culture. This perspective reminds me that digital things are not just abstract data but have real consequences through how they are created, shared, and preserved.
+
+I had no real issues setting up. I am getting used to Jupyter but other than that all was good, I got the Github repo set up with no issues. I also currently dont have any questions about parts of the course, im sure this will change as we get into things more.
+
+Before this week I wasn't very sure what digital archeology was. I have taken a course in the past that centerd around mostly Greek and Roman archeology. I am coming into this course with an open mind looking to learn what digital archeology is without much expectations. After the readings I’m starting to see that it’s not just about using computers or fancy tools. It’s also about thinking of digital things as real, material objects that shape how we do archaeology and how people connect with the past. That idea surprised me, but it also makes me curious to see where the course will go.
